@@ -1,8 +1,8 @@
 var mineflayer = require('mineflayer');
 var pass = "12345"; //Authme plugini şifresi (Plugin yoksa silmeyin)
 var ayar = {
-  host: "sunucuip", //Sunucunuzun ipsi
-  port: 25565, //Değiştirme!!!
+  host: "minebatata20.aternos.me", //Sunucunuzun ipsi
+  port: 26883, //Değiştirme!!!
   username: "BotBotando", //Botun ismi Kafanıza Göre
   version: false //Değiştirme!!!
   
